@@ -24,3 +24,10 @@ body {
     top: 50%;
     transform: translate(-50%, -60%) rotate(90deg);
   }
+
+.red {
+  background: red;
+}
+.rain {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+}
