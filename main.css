@@ -13,6 +13,7 @@ body {
     position: relative;
     width: 100px;
     border-radius: 50%;
+    cursor: pointer;
   }
   .face {
     font-family: 'courier new', serif;
