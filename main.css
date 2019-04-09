@@ -1,8 +1,18 @@
+body {
+    margin: 0;
+}
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 .head {
     background: #fc0;
     height: 100px;
     position: relative;
     width: 100px;
+    border-radius: 50%;
   }
   .face {
     font-family: 'courier new', serif;
